@@ -1,5 +1,8 @@
 ![](img/top1.png)
 
+# About Me
+- Name: Yuki Aki
+
 <!--
 **freddi-kit/freddi-kit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
