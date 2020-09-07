@@ -1,4 +1,4 @@
-![logo](img/top1.png)
+![logo](https://github.com/freddi-kit/freddi-kit/raw/master/img/top1.png)
 
 # About Me
 - Name: Yuki Aki
