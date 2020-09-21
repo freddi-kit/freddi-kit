@@ -7,6 +7,11 @@
 # About Me
 Graduated from Computer Science Degree in Japan, and working as iOS Engineer at LINE Fukuoka. Has the experience of giving a talk at world-wide Conference. Interested in Swift Compiler and gave some talks about compiler. Interested in OSS Project and contributed to some projects, like Swift Compiler and Tools for Xcode.
 
+# Contributed Projects
+- [__Swift__](https://github.com/apple/swift)
+- [__XcodeGen__](https://github.com/yonaskolb/XcodeGen)
+
+and more ...
 
 # Do you want to know more?
 Please come here to my resume!: https://gist.github.com/freddi-kit/0ba99d07e6a84dcca5496c2e3d88e4ce
