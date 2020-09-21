@@ -1,7 +1,7 @@
 ![logo](https://github.com/freddi-kit/freddi-kit/raw/master/img/top1.png)
 
 
-[![freddi's github stats](https://github-readme-stats.vercel.app/api?username=freddi-kit)](https://github.com/anuraghazra/github-readme-stats)
+[![freddi's github stats](https://github-readme-stats.vercel.app/api?username=freddi-kit&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 # About Me
