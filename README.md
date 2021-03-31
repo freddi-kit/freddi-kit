@@ -9,7 +9,7 @@ Graduated from Computer Science Degree in Japan, and working as iOS Engineer at 
 
 # Contributed Projects
 - [__Swift__](https://github.com/apple/swift)
-- [__XcodeGen__](https://github.com/yonaskolb/XcodeGen)
+- [__XcodeGen(Collaborator)__](https://github.com/yonaskolb/XcodeGen) 
 
 and more ...
 
