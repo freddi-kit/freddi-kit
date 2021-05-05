@@ -8,8 +8,8 @@
 Graduated from Computer Science Degree in Japan, and working as iOS Engineer at LINE Fukuoka. Has the experience of giving a talk at world-wide Conference. Interested in Swift Compiler and gave some talks about compiler. Interested in OSS Project and contributed to some projects, like Swift Compiler and Tools for Xcode.
 
 # Contributed Projects
-- [__Swift__](https://github.com/apple/swift)
 - [__XcodeGen(Collaborator)__](https://github.com/yonaskolb/XcodeGen) 
+- [__Swift__](https://github.com/apple/swift)
 
 and more ...
 
