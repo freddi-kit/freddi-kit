@@ -1,7 +1,7 @@
-![logo](https://github.com/freddi-kit/freddi-kit/raw/master/img/top1.png)
 
-
-![log2](https://github.com/user-attachments/assets/f52fcbe6-4c47-4b9e-b3c7-fe4edcc029f1)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f52fcbe6-4c47-4b9e-b3c7-fe4edcc029f1" height="400" />
+</p>
 
 
 [![freddi's github stats](https://github-readme-stats.vercel.app/api?username=freddi-kit&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
